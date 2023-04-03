@@ -1,5 +1,5 @@
 # CFBooter
-Leaked Project file of Timothy (discord: fel enjoyer#2654) and Buffer (some other mortally loose NPC), One of many project's our friendly Swedish has created
+Leaked Project file of Timothy (discord: fel enjoyer#2654) and Buffer (some other morally loose NPC), One of many project's our friendly Swedish has created
 
 CFBooter is a highly skidded, and poorly coded; slowloris based attack.
 
