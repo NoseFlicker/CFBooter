@@ -11,7 +11,7 @@ java -jar CFBooter.jar example.domain 30 GET DC http 80 false none
 
 
 ### Due to the poorly coded booter, Array lists and other certain bits of data is hard coded such as the proxies being attempted to use, which also because of basic common sense, expire...
-Example where it view: private static String[] proxy = {
+Example of such: private static String[] proxy = {
 
 Original README
 Simple Java booter, meant to be used with Mavy.
